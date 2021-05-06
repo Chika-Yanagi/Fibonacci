@@ -1,5 +1,5 @@
 # Fibonacci
-第 n 項までのフィボナッチ数列を出力するプログラム。  
+再帰関数によって第 n 項までのフィボナッチ数列を出力するプログラム。  
   
 [n=10の場合の入出力例]  
 gcc -Wall -std=c99 -o fibonacci fibonacci.c  
